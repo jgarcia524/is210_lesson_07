@@ -16,9 +16,9 @@ GRADE_DATA = {
         'gym': 'B',
     },
     'C-3PO': {
-        'math': 'B',
-        'etiquette': 'B+',
-        'grammar': 'B',
-        'gym': 'A',
+        'math': 'C',
+        'etiquette': 'A+',
+        'grammar': 'A',
+        'gym': 'F',
     },
 }
